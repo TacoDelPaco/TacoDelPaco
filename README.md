@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **TacoDelPaco/TacoDelPaco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+based crypto nomad, fueled by optimism.
+d.a.r.e. to say no to memecoins!
+day trading is bad for your health ⌐◨-◨
